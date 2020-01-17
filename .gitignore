@@ -108,3 +108,7 @@ dist
 
 # Jetbrains
 .idea
+
+# Generated data
+user_data
+credential.js
